@@ -1,0 +1,30 @@
+p   {
+    width: 80% !important;
+    text-align: center;
+}
+
+hr {
+    width: 20%;
+    text-align: left;
+    margin-left: 0;
+    height: 1px;
+    border: 1px red solid;
+}
+h1:nth-child(2){
+    background-color: yellow;
+}
+
+
+.color-blue {
+    color: skyblue !important;
+}
+
+#articles {
+    background-color: aquamarine;
+}
+
+#contacts {
+    margin-bottom: 32px;
+    background-color: blue;
+    color: white;
+}
